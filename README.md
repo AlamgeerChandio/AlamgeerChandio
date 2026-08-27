@@ -118,19 +118,6 @@ Secure backend simulating payment processing — JWT auth, BCrypt encryption, RE
 
 </div>
 
-<br/>
-
-## 📌 Popular Repositories
-
-<div align="center">
-
-<a href="https://github.com/AlamgeerChandio/Fitness-Activity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlamgeerChandio&repo=Fitness-Activity&theme=dark&hide_border=true&bg_color=0d1117&title_color=2a5298" /></a>
-<a href="https://github.com/AlamgeerChandio/Navigation-Drawer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlamgeerChandio&repo=Navigation-Drawer&theme=dark&hide_border=true&bg_color=0d1117&title_color=2a5298" /></a>
-
-<a href="https://github.com/AlamgeerChandio/Meme-Share-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlamgeerChandio&repo=Meme-Share-App&theme=dark&hide_border=true&bg_color=0d1117&title_color=2a5298" /></a>
-<a href="https://github.com/AlamgeerChandio/News-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlamgeerChandio&repo=News-App&theme=dark&hide_border=true&bg_color=0d1117&title_color=2a5298" /></a>
-
-</div>
 
 <br/>
 
