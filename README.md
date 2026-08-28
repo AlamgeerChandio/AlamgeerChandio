@@ -12,12 +12,14 @@
     </linearGradient>
   </defs>
   <rect width="860" height="160" rx="16" fill="url(#bg)"/>
-  <text x="430" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="54" font-weight="800"
-        text-anchor="middle" fill="url(#tg)">Alamgeer%20Chandio</text>
+  <text x="430" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="54" font-weight="1000"
+        text-anchor="middle" fill="url(#tg)"> Alamgeer Chandio</text>
   <text x="430" y="104" font-family="'Segoe UI',Arial,sans-serif" font-size="17"
         text-anchor="middle" fill="#e2e8f0">Senior Software Engineer</text>
   <text x="430" y="130" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
-        text-anchor="middle" fill="#7c3aed">Java · Spring Boot · Fintech &amp; Core Banking · | Full-Stack: React · Vue.js | AI Product Builder | Open to Remote & Relocate </text>
+        text-anchor="middle" fill="#7c3aed">Java · Spring Boot · Fintech &amp; Core Banking · | Full-Stack  </text>
+  <text x="430" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="54" font-weight="500"
+        text-anchor="middle" fill="url(#tg)">Open to Remote & Relocate</text>
   <circle cx="60" cy="80" r="36" fill="#00d4ff" fill-opacity="0.06"/>
   <circle cx="800" cy="80" r="36" fill="#7c3aed" fill-opacity="0.06"/>
 </svg>
@@ -237,12 +239,11 @@ Contributing to **AL-Habib Bank's Core Banking System** — one of Pakistan's la
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Platform | 🔧 Skills |
+| 🏅 Certificate | 🏢 Platform | 📅 Date | 🔧 Skills |
 |:---|:---|:---:|:---|
-| **Creating Spring Boot Microservices** | ![LinkedIn Learning]([https://img.shields.io/badge/Apna%20College-FF6B35?style=flat-square](https://www.linkedin.com/learning/certificates/61ba196d4bc181fbf128f51ca4888ae55e05ad066438bde5f372763000694d3b?trk=share_certificate))  | Design and development of scalable microservices using Spring Boot |
-| **Apache Kafka Essential Training** | ![LinkedIn Learning](https://www.linkedin.com/learning/certificates/433f34ef892cd016587e7b9c7431cb48d47687b666026385fbd32a5cf6802918?trk=share_certificate) |  Fundamentals of event-driven architecture and message streaming with Apache Kafka |
-| **Java Persistence with JPA and Hibernate** | ![LinkedIn Learning](https://www.linkedin.com/learning/certificates/38accaa99980679859da0af2628c0b7f39751cc23b933201bf6ecb627c8b5ec0?trk=share_certificate) |  Object-relational mapping and data persistence using JPA and Hibernate |
-| **DevOps Foundations: Microservices** | ![LinkedIn Learning](https://www.linkedin.com/learning/certificates/7649023ad0b8bce487833a30f555ed222eaff28c6fcc5267a2dda65a81ef280b?trk=share_certificate) |  CI/CD practices and DevOps principles applied to microservices architecture |
+| **Creating Spring Boot Microservices** | ![LinkedIn Learning](https://img.shields.io/badge/Linkedin%20Learning-FF6B35?style=flat-square) | May 2025 | Design and development of scalable microservices using Spring Boot |
+| **Apache Kafka Essential Training** | ![LinkedIn Learning](https://img.shields.io/badge/LinkedInLearning-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | Jan 2026 | Fundamentals of event-driven architecture and message streaming with Apache Kafka |
+| **DevOps Foundations: Microservices** | ![LinkedIn Learning](https://img.shields.io/badge/LinkedInLearning-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | CI/CD practices and DevOps principles applied to microservices architecture |
 
 </div>
 
