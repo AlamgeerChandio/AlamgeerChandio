@@ -13,7 +13,7 @@
   </defs>
   <rect width="860" height="160" rx="16" fill="url(#bg)"/>
   <text x="430" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="54" font-weight="1000"
-        text-anchor="middle" fill="url(#tg)">** Alamgeer Chandio **</text>
+        text-anchor="middle" fill="url(#tg)">Alamgeer</text>
   <text x="430" y="104" font-family="'Segoe UI',Arial,sans-serif" font-size="17"
         text-anchor="middle" fill="#e2e8f0">Senior Software Engineer</text>
   <text x="430" y="130" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
