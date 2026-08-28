@@ -13,11 +13,11 @@
   </defs>
   <rect width="860" height="160" rx="16" fill="url(#bg)"/>
   <text x="430" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="54" font-weight="1000"
-        text-anchor="middle" fill="url(#tg)"> Alamgeer Chandio</text>
+        text-anchor="middle" fill="url(#tg)">** Alamgeer Chandio **</text>
   <text x="430" y="104" font-family="'Segoe UI',Arial,sans-serif" font-size="17"
         text-anchor="middle" fill="#e2e8f0">Senior Software Engineer</text>
   <text x="430" y="130" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
-        text-anchor="middle" fill="#7c3aed">Java · Spring Boot · Fintech &amp; Core Banking · | Full-Stack  </text>
+        text-anchor="middle" fill="#7c3aed">Java · Spring Boot · Fintech &amp; Core Banking · | Full-Stack |</text>
   <text x="430" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="54" font-weight="500"
         text-anchor="middle" fill="url(#tg)">Open to Remote & Relocate</text>
   <circle cx="60" cy="80" r="36" fill="#00d4ff" fill-opacity="0.06"/>
@@ -243,7 +243,7 @@ Contributing to **AL-Habib Bank's Core Banking System** — one of Pakistan's la
 |:---|:---|:---:|:---|
 | **Creating Spring Boot Microservices** | ![LinkedIn Learning](https://img.shields.io/badge/Linkedin%20Learning-FF6B35?style=flat-square) | May 2025 | Design and development of scalable microservices using Spring Boot |
 | **Apache Kafka Essential Training** | ![LinkedIn Learning](https://img.shields.io/badge/LinkedInLearning-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | Jan 2026 | Fundamentals of event-driven architecture and message streaming with Apache Kafka |
-| **DevOps Foundations: Microservices** | ![LinkedIn Learning](https://img.shields.io/badge/LinkedInLearning-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | CI/CD practices and DevOps principles applied to microservices architecture |
+| **DevOps Foundations: Microservices** | ![LinkedIn Learning](https://img.shields.io/badge/LinkedInLearning-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | June 2026 | CI/CD practices and DevOps principles applied to microservices architecture
 
 </div>
 
@@ -253,7 +253,7 @@ Contributing to **AL-Habib Bank's Core Banking System** — one of Pakistan's la
 
 <div align="center">
 
-![SMIU](https://img.shields.io/badge/🏛️%20IQRA%20UNIVERSITY%20MAIN%20CAMPUS%20Karachi-B.S.%20Software%20Engineering%20%7C%202018--2022-00d4ff?style=for-the-badge)
+![IQRA](https://img.shields.io/badge/🏛️%20IQRA%20UNIVERSITY%20MAIN%20CAMPUS%20Karachi-B.S.%20Software%20Engineering%20%7C%202018--2022-00d4ff?style=for-the-badge)
 
 **IQRA University main campus Karachi**
 
